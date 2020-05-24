@@ -21,6 +21,10 @@ V 0.7  |   (0.77033)      Removed train-test contamination occuring due to use o
 
 Version 1 --- XGBoost Gradient Booster
 
+V 1.0  |   (0.76555)      Basic XGBoost Classifier
+
+V 1.1  |   (0.75598)      Tuned XGBoost with RandomizedSearchCV
+
 
 
 
