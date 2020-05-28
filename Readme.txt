@@ -19,15 +19,11 @@ V 0.6  |   (0.68421)      Tuned Pipeline Model with cross validation
 V 0.7  |   (0.77033)      Removed train-test contamination occuring due to use of preprocessing before cross validation 
                           (includes "Embarked" feature)
 
-Version 1 --- XGBoost Gradient Booster
+Version 1 --- XGBoost Gradient Booster | Light GBM
 
 V 1.0  |   (0.76555)      Basic XGBoost Classifier
 
 V 1.1  |   (0.75598)      Tuned XGBoost with RandomizedSearchCV
 
-
-
-
-
-
+V 1.2  |   (0.78468)      Feature grouping wrt age and title
 
